@@ -1,0 +1,173 @@
+﻿
+body { 
+	margin: 0px 0 0 0;
+	padding: 0;
+    display:    "vhhw"
+                "xocy"
+                "kffl"
+    * 240px minmax(800px,800px) *;
+	width: 100%;
+	background: white; 
+	
+	
+}
+
+ #header { 
+	position: h;
+	text-align: left;
+	border: 0px;
+	margin:20px 0 0 0;
+	padding: 0px 0px 0px 0px;
+	height: 162px;
+	
+	
+	}
+
+	/*
+	#jazyk {
+			position: absolute;
+			right: -10px; 
+			top: 10px;
+			font-size: 0.7em;
+			font-family: Ebrima, Calibri, Geneva; 
+			}
+			*/
+.noborder2 img {                            /*odkazy v index*/
+	border: none; margin: 0 0px 0px 0px;
+
+}
+.noborder1 img {									/*logo*/
+	border: none; margin: 0 80px 0 0px;
+	width: 190px;
+}
+.noborder img {										/*letak*/
+	border: none;
+}
+
+		
+
+
+
+
+.banner {
+	width: 200px;  
+	
+	float:right; 
+	margin: 0px 0 0 0px;
+	text-align: justify;
+	height:100%;
+	}
+
+
+
+
+#content { 
+	position: c;
+	color: black;
+	margin: 0px 0px 0 0;
+	padding: 0px;
+	background-color:red;
+	width: 800px;
+	
+	z-index: 20;
+	
+}
+/*
+		#letak {text-align: center;width: 644px;float: left; margin:25px 0px 0 0px;
+			border-left: 0px dotted #831f7f;
+			padding: 0 14px 0 14px;}
+		#banner2 {width: 122px;
+			border: solid black 0px;float:right;
+			margin: 25px 0 0 0;}
+*/
+
+#odkazy {
+	text-align: center;
+	width: 100%;float: left;
+	margin:0px 0px 0 0px;
+	border-left: 0px dotted #831f7f;
+	padding: 0 0px 0 0px;
+}
+			
+			
+			
+			
+
+
+
+
+
+
+				
+						/*#nav2 li a:active, #nav2 li a:focus {background:#dfd7ca; color:#c00;} zkopceno z 55.radku*/
+
+
+#footer { 
+	position: f; 
+	text-align: center;
+	background-color:black;
+	color:red;
+	height:50px;
+	
+}
+
+
+
+#thumb1 {}
+
+
+
+#pmenu{
+	position: o;
+	padding: 6 px;
+	text-align: left;
+	background-color:blue;
+	font-size: 1em;
+	width: 240px;     										  /* SIRKA MENU*/
+	color: black;
+	margin: 0px;
+	min-height:400px;
+	font-family: Calibri, Ebrima, Geneva; 
+	font-size: 15px;
+	border-left: 0px dotted #831f7f;
+	border-right: 0px dotted #831f7f;
+
+}
+
+#vataheader {
+	position:v;
+	background-color:black;
+	min-height:162px;
+	margin:20px 0 0 0;
+
+}
+#wataheader {
+	position:w;
+	background-color:black;
+	min-height:162px;
+	margin:20px 0 0 0;
+
+}
+#vatabody {
+	position:x;
+	background-color:pink;
+	min-height:400px;
+
+}
+#watabody {
+	position:y;
+	background-color:pink;
+	min-height:400px;
+}
+#vatafoot {
+	position:k;
+	background-color:yellow;
+	min-height:50px;
+
+}
+#watafoot {
+	position:l;
+	background-color:yellow;
+	min-height:50px;
+}
+			/* Get rid of the margin, padding and bullets in the unordered lists */

@@ -1,0 +1,78 @@
+
+
+#figure p {
+	float: right;
+	width: 150px;
+	height: 200px;
+	margin: .5em;
+	padding: .5em;
+	background: #000;
+	color: white;
+}
+
+
+.headerlogo {
+	width: 240px;
+	float: left;
+}
+
+.headerbanner {
+	float:left;
+	padding: 20px 20px 10px 0;
+}
+
+.contacthead {
+	font-family: Serif;
+	font-size: 12px;
+	
+}
+
+.contactfoot {
+	font-family: Serif;
+	font-size: 10px;
+	
+}
+
+#headercontact {
+	float: right;
+	text-align: center;
+	width: 200px;
+}
+
+#new { 
+	float: right;
+	text-align: center;
+	padding: 0px 30px 0px 0px; 
+	position: relative;
+	right: 50px; 
+	top: 0px;
+}
+
+#obsahmasle {
+	padding-top: 20px;
+	margin-top: 100px;
+}
+
+.obsah { 
+	width:800px;
+	float:left;
+	min-height: 400px;
+	padding: 0 0px 0 0;
+	font-family: Calibri, Ebrima, Geneva; 
+	font-size: 12px;
+	color: #717171;
+	padding-right: 10px;
+	}
+
+
+#prouzek {
+	position: absolute;
+	background:#BB84B9;
+	
+	height: 32px;
+	width: 800px;
+	left: 240px;
+	bottom: 0px;
+	margin:0 0 0 0;
+	
+}

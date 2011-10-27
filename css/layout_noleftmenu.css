@@ -1,0 +1,60 @@
+body { 
+	margin: 0;
+	padding: 0;
+	
+    display:    ".hh."
+                ".nn."
+                ".cc."
+                ".ff."
+    * 200px minmax(500px,800px)  *
+    ;
+	width: 100%;
+	background: #DDF;   
+}
+
+#header { position: h; text-align: left; }
+
+#content { 
+	position: c;
+	margin: .9em;
+}
+
+#nav1 { 
+	position: n;
+	background: #AAD;
+	margin: 0;
+	padding: .5em;
+}
+
+#nav1 li { 
+	display: inline;
+	margin: 0 20px;
+}
+
+
+body::slot(o) {
+	background: #FDD;
+}
+body::slot(p) {
+	background: #DFD;
+	//vertical-align: middle;
+}
+
+#nav2 { position: o;
+		text-align: center;}
+
+#nav3 { 
+	
+	position: p;
+	text-align: center;
+	display: none;
+}
+
+#footer { 
+	position: f; 
+	text-align: center;
+}
+
+
+
+
