@@ -1,26 +1,12 @@
-﻿
-body { 
-	margin: 0px 0 0 0;
-	padding: 0;
-    display:    "vhhw"
-                "xocy"
-                "kffl"
-    * 240px minmax(800px,800px) *;
-	width: 100%;
-	background: white; 
-	
-	
-}
-
- #header { 
+#header { 
 	position: h;
 	text-align: left;
 	border: 0px;
 	margin:20px 0 0 0;
 	padding: 0px 0px 0px 0px;
 	height: 162px;
-
-
+	
+	
 	}
 
 	/*
@@ -44,14 +30,14 @@ body {
 	border: none;
 }
 
-
+		
 
 
 
 
 .banner {
 	width: 200px;  
-
+	
 	float:right; 
 	margin: 0px 0 0 0px;
 	text-align: justify;
@@ -68,9 +54,9 @@ body {
 	padding: 0px;
 	background-color:red;
 	width: 800px;
-
+	
 	z-index: 20;
-
+	
 }
 /*
 		#letak {text-align: center;width: 644px;float: left; margin:25px 0px 0 0px;
@@ -88,17 +74,17 @@ body {
 	border-left: 0px dotted #831f7f;
 	padding: 0 0px 0 0px;
 }
+			
+			
+			
+			
 
 
 
 
 
 
-
-
-
-
-
+				
 						/*#nav2 li a:active, #nav2 li a:focus {background:#dfd7ca; color:#c00;} zkopceno z 55.radku*/
 
 
@@ -108,7 +94,7 @@ body {
 	background-color:black;
 	color:red;
 	height:50px;
-
+	
 }
 
 

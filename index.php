@@ -11,7 +11,7 @@
   <?php
     printTitle();
   
-    includeCSS_JS();
+    includeCSS_JS_noLeftMenu();
   ?>
 
 
@@ -40,13 +40,10 @@
 	
 	<div id="pmenu">
 		
-				<?php
-				
-				printMenu();
-				?>
+	
 				
 	</div>
-	
+
 		<div id="content">
       <p>
         Dohodu o odmazání poloviny řeckého dluhu nepovažuje ministr financí Miroslav Kalousek za definitivní řešení. Klíčové je podle nich to, zda se podaří posílit evropské banky. "Pro řadu vlád to může být nepřekonatelný problém," řekl v rozhovoru pro iDNES.cz Kalousek. Za velké riziko označil, když banky ztratí chuť poskytovat úvěry.

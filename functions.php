@@ -75,10 +75,50 @@ function includeCSS_JS_noLeftMenu() {
 	print <<<END
 
     <link href="css/layout_noleftmenu.css" rel="stylesheet">
+    <link href="css/global.css" rel="stylesheet">
 
 
-    <script src="js/jquery/jquery.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js"></script>
     <script src="js/jquery/jquery.tpl_layout.js"></script>
+    <script src="js/jquery/jquery.cookie.js" type="text/javascript"></script>
+    <script src="js/jquery/jquery.treeview.js" type="text/javascript"></script>
+
+    <link rel="stylesheet" href="js/jquery/jquery.treeview.css" />
+    <link rel="stylesheet" href="js/jquery/red-treeview.css" />
+    <link rel="stylesheet" href="js/jquery/screen.css" />
+
+      <script type="text/javascript" src="js/highslide/highslide.js"></script>		<!--FOTO ZOOM -->
+    <link rel="stylesheet" type="text/css" href="js/highslide/highslide.css" />		<!--FOTO ZOOM -->
+
+    <script>
+    $.templateLayoutShowOnReady();
+
+
+    	$(function() {
+    		$.setTemplateLayout('css/layout_noleftmenu.css');
+    	});
+    	</script>
+
+    <script type="text/javascript">													<!--FOTO ZOOM -->
+        hs.graphicsDir = 'js/highslide/graphics/';
+        hs.outlineType = 'rounded-white';
+    </script>
+
+      <script type="text/javascript">
+           $(function(){
+
+            $("#tree").treeview({
+             collapsed: true,
+       				animated: "medium",
+       				persist: "location"
+            });
+
+            //$("#tree").treeview({collapsed:true})
+
+           });
+
+       	</script>
+
 END;
 } 
 
