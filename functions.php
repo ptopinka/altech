@@ -23,7 +23,15 @@ function printHeader() {
           </div>
 
           
-			    <div id="prouzek"> </div></div>
+			    <div id="prouzek">
+	          <div class="hornimenu"><a href="uvod.php"><img src="img/nav_uvod_dark.png"/></a></div>
+	          <div class="hornimenu"><a href="uvod.php"><img src="img/nav_onas_dark.png"/></a></div>
+	          <div class="hornimenu"><a href="uvod.php"><img src="img/nav_ref_dark.png"/></a></div>
+	          <div class="hornimenu"><a href="uvod.php"><img src="img/nav_spoluprac_dark.png"/></a></div>
+	          <div class="hornimenu"><a href="uvod.php"><img src="img/nav_kamery_dark.png"/></a></div>
+	          <div class="hornimenu"><a href="uvod.php"><img src="img/nav_kontakty_dark.png"/></a></div>
+		        
+			    </div>
 			</div>
 END;
 }
