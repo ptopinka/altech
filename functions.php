@@ -29,9 +29,19 @@ END;
 }
 function printMenu() {
 	print <<<END
-    menu sloupec
     <div id="sidetree">
-
+    <div id="navigace1" class="leftmenu">
+      <a href="ezs.php"><img src="img/nav_left_ezs.png"></a>
+    </div>
+    <div id="navigace2" class="leftmenu">
+      <a href="cctv.php"><img src="img/nav_left_cctv.png"></a>
+    </div>
+    <div id="navigace3" class="leftmenu">
+      <a href="eps.php"><img src="img/nav_left_eps.png"></a>
+    </div>
+    <div id="navigace4" class="leftmenu">
+      <a href="vstupy.php"><img src="img/nav_left_vstupy.png"></a>
+    </div>
 
     </div>
 

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
  
 <?php 
   require("functions.php");
@@ -11,7 +11,7 @@
   <?php
     printTitle();
   
-    includeCSS_JS_noLeftMenu();
+    includeCSS_JS();
   ?>
 
 
@@ -39,24 +39,15 @@
 	</div>
 	
 	<div id="pmenu">
-		
+		<?php
+		  printMenu();
+		?>
 	
 				
 	</div>
 
 		<div id="content">
-      <div id="navigace1">
-        <a href="ezs.php"><img src="img/navigace_ezs.png"></a>
-      </div>
-      <div id="navigace2">
-        <a href="cctv.php"><img src="img/navigace_cctv.png"></a>
-      </div>
-      <div id="navigace3">
-        <a href="eps.php"><img src="img/navigace_eps.png"></a>
-      </div>
-      <div id="navigace4">
-        <a href="vstupy.php"><img src="img/navigace_vstupy.png"></a>
-      </div>
+
  
 		  
 		  <div class="obsah"> 
