@@ -24,12 +24,21 @@ function printHeader() {
 
           
 			    <div id="prouzek">
-	          <div style="display:inline;padding-left:60px"><a href="uvod.php"><img src="img/nav_uvod_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="onas.php"><img src="img/nav_onas_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="reference.php"><img src="img/nav_ref_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="spoluprac.php"><img src="img/nav_spoluprac_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="kamery.php"><img src="img/nav_kamery_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="kontakty.php"><img src="img/nav_kontakty_dark.png"/></a></div>
+	          <div style="display:inline;padding-left:60px">
+	                                       <a href="uvod.php"><img class="swapImage {src: 'img/nav_uvod_light.png'}"src="img/nav_uvod_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="onas.php"><img class="swapImage {src: 'img/nav_onas_light.png'}"src="img/nav_onas_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="reference.php"><img class="swapImage {src: 'img/nav_ref_light.png'}" src="img/nav_ref_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="spoluprac.php"><img class="swapImage {src: 'img/nav_spoluprac_light.png'}" src="img/nav_spoluprac_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="kamery.php"><img class="swapImage {src: 'img/nav_kamery_light.png'}"  src="img/nav_kamery_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="kontakty.php"><img class="swapImage {src: 'img/nav_kontakty_light.png'}" src="img/nav_kontakty_dark.png"/></a></div>
+		        
+		        
+		        <!--
+		        <a  id="propozice" href="index.php">
+                   <img class="swapImage {src: 'img/buttons/aktuality2.PNG'}" src="img/buttons/aktuality1.PNG" alt="propozice">
+            </a>
+		        -->
+		        
 		        
 			    </div>
 			</div>
@@ -157,6 +166,15 @@ function includeCSS_JS() {
 <link rel="stylesheet" href="js/jquery/red-treeview.css" />
 <link rel="stylesheet" href="js/jquery/screen.css" />
 
+
+<script type="text/javascript" src="js/yui/yahoo/yahoo-min.js"></script>
+<script type="text/javascript" src="js/yui/dom/dom-min.js"></script>
+<script type="text/javascript" src="js/yui/selector/selector-min.js"></script>
+<script type="text/javascript" src="js/yui/event/event-min.js" ></script>
+<script type="text/javascript" src="js/yui/metadata-min.js"></script>
+<script type="text/javascript" src="js/yui/swapimage-min.js"></script>
+
+
   <script type="text/javascript" src="js/highslide/highslide.js"></script>		<!--FOTO ZOOM -->
 <link rel="stylesheet" type="text/css" href="js/highslide/highslide.css" />		<!--FOTO ZOOM -->
   
@@ -191,6 +209,11 @@ $.templateLayoutShowOnReady();
        });
 
    	</script>
+
+
+      <script type="text/javascript">
+              YAHOO.plugin.SwapImage.bind(".swapImage");
+       </script>
 
 
 END;

@@ -67,7 +67,7 @@ body {
 	color: black;
 	margin: 0px 0px 0 0;
 	padding: 0px;
-	background-color:red;
+	background-color:white;
 	width: 740px;
 
 	z-index: 20;
@@ -123,7 +123,7 @@ body {
 	position: o;
 	padding: 6 px;
 	text-align: left;
-	background-color:blue;
+	background-color:white;
 	font-size: 1em;
 	width: 270px;     										  /* SIRKA MENU*/
 	color: black;
