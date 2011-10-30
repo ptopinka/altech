@@ -48,21 +48,17 @@
 
 		<div id="content">
 
- 
 		  
 		  <div class="obsah"> 
 		    
-
-		    
 		  </div> <!-- end obsah-->
-  		
-		
+ 
   </div>  <!-- konec content  -->
 
 
 
 	<div id="footer">
-	  asdfasdfas
+	 
 		<?php
 		  printFooter();
 		?>

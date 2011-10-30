@@ -71,7 +71,6 @@
 
 
 	<div id="footer">
-	  asdfasdfas
 		<?php
 		  printFooter();
 		?>

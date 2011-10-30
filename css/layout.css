@@ -5,7 +5,7 @@ body {
     display:    "vhhw"
                 "xocy"
                 "kffl"
-    * 240px minmax(800px,800px) *;
+    * 270px minmax(740px,740px) *;
 	width: 100%;
 	background: white; 
 	
@@ -16,10 +16,11 @@ body {
 	position: h;
 	text-align: left;
 	border: 0px;
-	margin:20px 0 0 0;
+	margin:0px 0 0 0;
 	padding: 0px 0px 0px 0px;
 	height: 162px;
-
+	background-image: url(../img/carbon.png);
+	background-repeat: no-repeat;
 
 	}
 
@@ -67,7 +68,7 @@ body {
 	margin: 0px 0px 0 0;
 	padding: 0px;
 	background-color:red;
-	width: 800px;
+	width: 740px;
 
 	z-index: 20;
 
@@ -107,8 +108,9 @@ body {
 	text-align: center;
 	background-color:black;
 	color:red;
-	height:50px;
-
+	height:200px;
+	background-image: url(../img/carbon_foot_long.png);
+	background-repeat: no-repeat;
 }
 
 
@@ -123,7 +125,7 @@ body {
 	text-align: left;
 	background-color:blue;
 	font-size: 1em;
-	width: 240px;     										  /* SIRKA MENU*/
+	width: 270px;     										  /* SIRKA MENU*/
 	color: black;
 	margin: 0px;
 	min-height:400px;
@@ -136,38 +138,40 @@ body {
 
 #vataheader {
 	position:v;
-	background-color:black;
+	background-color:white;
 	min-height:162px;
-	margin:20px 0 0 0;
+	margin:0px 0 0 0;
 
 }
 #wataheader {
 	position:w;
-	background-color:black;
+	background-color:white;
 	min-height:162px;
-	margin:20px 0 0 0;
+	margin:0px 0 0 0;
 
 }
 #vatabody {
 	position:x;
-	background-color:pink;
+	background-color:white;
 	min-height:400px;
 
 }
 #watabody {
 	position:y;
-	background-color:pink;
+	background-color:white;
 	min-height:400px;
 }
 #vatafoot {
 	position:k;
-	background-color:yellow;
-	min-height:50px;
-
+	background-color:white;
+	min-height:200px;
+	background-image: url(../img/carbon_foot_left.png);
+	
+	
 }
 #watafoot {
 	position:l;
-	background-color:yellow;
-	min-height:50px;
+	background-color:white;
+	min-height:200px;
 }
 			/* Get rid of the margin, padding and bullets in the unordered lists */

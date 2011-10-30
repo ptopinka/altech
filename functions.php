@@ -24,12 +24,12 @@ function printHeader() {
 
           
 			    <div id="prouzek">
-	          <div class="hornimenu"><a href="uvod.php"><img src="img/nav_uvod_dark.png"/></a></div>
-	          <div class="hornimenu"><a href="onas.php"><img src="img/nav_onas_dark.png"/></a></div>
-	          <div class="hornimenu"><a href="reference.php"><img src="img/nav_ref_dark.png"/></a></div>
-	          <div class="hornimenu"><a href="spoluprac.php"><img src="img/nav_spoluprac_dark.png"/></a></div>
-	          <div class="hornimenu"><a href="kamery.php"><img src="img/nav_kamery_dark.png"/></a></div>
-	          <div class="hornimenu"><a href="kontakty.php"><img src="img/nav_kontakty_dark.png"/></a></div>
+	          <div style="display:inline;padding-left:60px"><a href="uvod.php"><img src="img/nav_uvod_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="onas.php"><img src="img/nav_onas_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="reference.php"><img src="img/nav_ref_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="spoluprac.php"><img src="img/nav_spoluprac_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="kamery.php"><img src="img/nav_kamery_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="kontakty.php"><img src="img/nav_kontakty_dark.png"/></a></div>
 		        
 			    </div>
 			</div>
@@ -84,6 +84,7 @@ END;
 
 function printFooter() {
 	print <<<END
+      <div class="patickalogo"><img src="img/footer.png"/></div>
       <p>Veroo (r)</p>
 END;
 }
