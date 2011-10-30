@@ -19,7 +19,7 @@ body {
 	margin:0px 0 0 0;
 	padding: 0px 0px 0px 0px;
 	height: 162px;
-	background-image: url(../img/carbon.png);
+	background-image: url(../img/carbon.jpg);
 	background-repeat: no-repeat;
 
 	}
@@ -109,7 +109,7 @@ body {
 	background-color:black;
 	color:red;
 	height:200px;
-	background-image: url(../img/carbon_foot_long.png);
+	background-image: url(../img/carbon.jpg);
 	background-repeat: no-repeat;
 }
 
@@ -165,7 +165,7 @@ body {
 	position:k;
 	background-color:white;
 	min-height:200px;
-	background-image: url(../img/carbon_foot_left.png);
+	background-image: url(../img/carbon_foot_left.jpg);
 	
 	
 }
@@ -173,5 +173,6 @@ body {
 	position:l;
 	background-color:white;
 	min-height:200px;
+		background-image: url(../img/carbon_foot_right.jpg);
 }
 			/* Get rid of the margin, padding and bullets in the unordered lists */
