@@ -45,24 +45,24 @@
 	</div>
 
 		<div id="content">
-      <div id="navigace1">
-        <a href="ezs.php"><img src="img/navigace_ezs.png"></a>
-      </div>
-      <div id="navigace2">
-        <a href="cctv.php"><img src="img/navigace_cctv.png"></a>
-      </div>
-      <div id="navigace3">
-        <a href="eps.php"><img src="img/navigace_eps.png"></a>
-      </div>
-      <div id="navigace4">
-        <a href="vstupy.php"><img src="img/navigace_vstupy.png"></a>
-      </div>
- 
-		  
-		  <div class="obsah"> 
-		    
 
-		    
+		  <div class="obsah"> 
+        <div>
+          <div style="display:inline;" id="navindex1">
+            <a href="ezs.php"><img src="img/navigace_ezs.png"></a>
+          </div>
+          <div style="display:inline;" id="navindex2">
+            <a href="cctv.php"><img src="img/navigace_cctv.png"></a>
+          </div>
+        </div>
+        <div>
+          <div style="display:inline;" id="navindex3">
+            <a href="eps.php"><img src="img/navigace_eps.png"></a>
+          </div>
+          <div style="display:inline;" id="navindex4">
+            <a href="vstupy.php"><img src="img/navigace_vstupy.png"></a>
+          </div>
+        </div>
 		  </div> <!-- end obsah-->
   		
 		

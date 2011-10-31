@@ -5,7 +5,7 @@ body {
     display:    "vhhw"
                 "xccy"
                 "kffl"
-    * 240px minmax(800px,800px) *;
+    * 270px minmax(740px,740px) *;
 	width: 100%;
 	background: white; 
 	
@@ -16,10 +16,11 @@ body {
 	position: h;
 	text-align: left;
 	border: 0px;
-	margin:20px 0 0 0;
+	margin:0px 0 0 0;
 	padding: 0px 0px 0px 0px;
 	height: 162px;
-
+	background-image: url(../img/carbon.jpg);
+	background-repeat: no-repeat;
 
 	}
 
@@ -66,10 +67,10 @@ body {
 	color: black;
 	margin: 0px 0px 0 0;
 	padding: 0px;
-	background-color:red;
-	width: 1040px;
+	background-color:white;
+	width: 1010px;
+	height:400px;
 
-	z-index: 20;
 
 }
 /*
@@ -107,8 +108,9 @@ body {
 	text-align: center;
 	background-color:black;
 	color:red;
-	height:50px;
-
+	height:200px;
+	background-image: url(../img/carbon.jpg);
+	background-repeat: no-repeat;
 }
 
 
@@ -117,42 +119,63 @@ body {
 
 
 
+#pmenu{
+	position: o;
+	padding: 6 px;
+	text-align: left;
+	background-color:white;
+	font-size: 1em;
+	width: 270px;     										  /* SIRKA MENU*/
+	color: black;
+	margin: 0px;
+	min-height:400px;
+	font-family: Calibri, Ebrima, Geneva; 
+	font-size: 15px;
+	border-left: 0px dotted #831f7f;
+	border-right: 0px dotted #831f7f;
 
+}
 
 #vataheader {
 	position:v;
-	background-color:black;
+	background-color:white;
 	min-height:162px;
-	margin:20px 0 0 0;
+	margin:0px 0 0 0;
+	background-image: url(../img/carbon_header_left.jpg);
 
 }
 #wataheader {
 	position:w;
-	background-color:black;
+	background-color:white;
 	min-height:162px;
-	margin:20px 0 0 0;
+	margin:0px 0 0 0;
+	background-image: url(../img/carbon_header_right.jpg);
 
 }
 #vatabody {
 	position:x;
-	background-color:pink;
+	background-color:white;
 	min-height:400px;
 
 }
 #watabody {
 	position:y;
-	background-color:pink;
+	background-color:white;
 	min-height:400px;
 }
 #vatafoot {
 	position:k;
-	background-color:yellow;
-	min-height:50px;
+	background-color:white;
+	min-height:200px;
+	background-image: url(../img/carbon_foot_left.jpg);
+
 
 }
 #watafoot {
 	position:l;
-	background-color:yellow;
-	min-height:50px;
+	background-color:white;
+	min-height:200px;
+		background-image: url(../img/carbon_foot_right.jpg);
 }
 			/* Get rid of the margin, padding and bullets in the unordered lists */
+ 

@@ -24,13 +24,13 @@ function printHeader() {
 
           
 			    <div id="prouzek">
-	          <div style="display:inline;padding-left:60px">
-	                                       <a href="uvod.php"><img class="swapImage {src: 'img/nav_uvod_light.png'}"src="img/nav_uvod_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="onas.php"><img class="swapImage {src: 'img/nav_onas_light.png'}"src="img/nav_onas_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="reference.php"><img class="swapImage {src: 'img/nav_ref_light.png'}" src="img/nav_ref_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="spoluprac.php"><img class="swapImage {src: 'img/nav_spoluprac_light.png'}" src="img/nav_spoluprac_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="kamery.php"><img class="swapImage {src: 'img/nav_kamery_light.png'}"  src="img/nav_kamery_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="kontakty.php"><img class="swapImage {src: 'img/nav_kontakty_light.png'}" src="img/nav_kontakty_dark.png"/></a></div>
+	          <div style="display:inline;padding-left:80px">
+	                                      <a href="uvod.php"><img style="border:0;" class="swapImage {src: 'img/nav_uvod_light.png'}" src="img/nav_uvod_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="onas.php"><img style="border:0;"  class="swapImage {src: 'img/nav_onas_light.png'}"src="img/nav_onas_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="reference.php"><img style="border:0;" class="swapImage {src: 'img/nav_ref_light.png'}" src="img/nav_ref_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="spoluprac.php"><img style="border:0;" class="swapImage {src: 'img/nav_spoluprac_light.png'}" src="img/nav_spoluprac_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="kamery.php"><img style="border:0;" class="swapImage {src: 'img/nav_kamery_light.png'}"  src="img/nav_kamery_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="kontakty.php"><img style="border:0;" class="swapImage {src: 'img/nav_kontakty_light.png'}" src="img/nav_kontakty_dark.png"/></a></div>
 		        
 		        
 		        <!--
@@ -94,7 +94,9 @@ END;
 function printFooter() {
 	print <<<END
       <div class="patickalogo"><img src="img/footer.png"/></div>
-      <p>Veroo (r)</p>
+      <div  class="company">
+      <p>Created By Veroo &copy; <a href="mailto:ptopinka@gmail.com">email</a></p>
+      </div>
 END;
 }
 
@@ -118,6 +120,19 @@ function includeCSS_JS_noLeftMenu() {
       <script type="text/javascript" src="js/highslide/highslide.js"></script>		<!--FOTO ZOOM -->
     <link rel="stylesheet" type="text/css" href="js/highslide/highslide.css" />		<!--FOTO ZOOM -->
 
+    <script type="text/javascript" src="js/yui/yahoo/yahoo-min.js"></script>
+    <script type="text/javascript" src="js/yui/dom/dom-min.js"></script>
+    <script type="text/javascript" src="js/yui/selector/selector-min.js"></script>
+    <script type="text/javascript" src="js/yui/event/event-min.js" ></script>
+    <script type="text/javascript" src="js/yui/metadata-min.js"></script>
+    <script type="text/javascript" src="js/yui/swapimage-min.js"></script>
+
+
+      <script type="text/javascript" src="js/highslide/highslide.js"></script>		<!--FOTO ZOOM -->
+    <link rel="stylesheet" type="text/css" href="js/highslide/highslide.css" />		<!--FOTO ZOOM -->
+ 
+ 
+ 
     <script>
     $.templateLayoutShowOnReady();
 
@@ -146,6 +161,11 @@ function includeCSS_JS_noLeftMenu() {
            });
 
        	</script>
+       	
+       	
+          <script type="text/javascript">
+                  YAHOO.plugin.SwapImage.bind(".swapImage");
+           </script>   	
 
 END;
 } 

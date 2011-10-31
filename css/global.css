@@ -35,7 +35,7 @@
 
 .headerbanner {
 	float:right;
-	padding: 20px 20px 10px 0;
+	padding: 20px 0px 10px 0;
 }
 
 .contacthead {
@@ -71,14 +71,13 @@
 }
 
 .obsah { 
-	width:740px;
-	float:left;
+	width:1010px;
+	text-align:center;
 	min-height: 400px;
-	padding: 0 0px 0 0;
+	padding: 31px 0 0 0;
 	font-family: Calibri, Ebrima, Geneva; 
 	font-size: 12px;
 	color: #717171;
-	padding-right: 10px;
 	}
 
 
@@ -93,3 +92,62 @@
 	margin:0 0 0 0;
 	
 }
+
+#navindex1  {
+	width:500px;
+	margin-right:3px;
+	padding-right:10px;
+	border:0;
+
+}
+#navindex2  {
+	width:500px;
+	margin-left:3px;
+	padding-left:3px;
+ 	border:0;
+
+}
+#navindex3  {
+	width:500px;
+	margin-right:3px;
+	padding-right:10px;	
+	border:0;
+
+}
+#navindex4  {
+	width:500px;
+	margin-left:3px;
+	padding-left:3px;
+	border:0;
+
+}
+#navindex4 img {
+	padding-top:20px;
+	border:0;
+	
+}
+#navindex1 img  {border:0;}
+#navindex2 img {border:0;}
+#navindex3 img {border:0;}
+#navindex4 img {border:0;}
+
+#navigace1 img  {border:0;}
+#navigace2 img {border:0;}
+#navigace3 img {border:0;}
+#navigace4 img {border:0;}
+
+class noborder {
+	border:0;
+}
+
+.company {
+	font-family: Calibri, Ebrima, Geneva; 
+	font-size: 10px;
+	color: #717171;	
+}
+
+.company a {
+		color: #717171;	
+		text-decoration:none;
+}
+
