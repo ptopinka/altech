@@ -50,7 +50,15 @@
 
 		  
 		  <div class="obsah"> 
-		    
+          <h3>Uzavřené televizní okruhy – CCTV</h3>
+
+        Systémy CCTV jsou vhodné především jako podpora klasické EZS, v některých speciálních případech však může elektronické videostřežení
+        část úloh EZS přímo převzít. Vedle známých aplikací v obchodních domech videotechnika slouží zejména v oblasti venkovních ochran 
+        ve spojení s prostředky obvodové ochrany. Hlídací služba pak nemusí ověřovat příčinu poplachu přímo na místě, 
+        ale může pomocí automaticky zapnuté kamery a osvětlení pozorovat konkrétní prostor bez rizika ohrožení osob.		    
+        <div id="kamera">
+          <img src="img/kamera.png"/>
+        </div>
 		  </div> <!-- end obsah-->
  
   </div>  <!-- konec content  -->

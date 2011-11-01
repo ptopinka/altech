@@ -18,7 +18,7 @@ body {
 	border: 0px;
 	margin:0px 0 0 0;
 	padding: 0px 0px 0px 0px;
-	height: 162px;
+	height: 184px;
 	background-image: url(../img/carbon.jpg);
 	background-repeat: no-repeat;
 
@@ -68,9 +68,9 @@ body {
 	margin: 0px 0px 0 0;
 	padding: 0px;
 	background-color:white;
-	width: 1010px;
-	height:400px;
+	width: 740px;
 
+	z-index: 20;
 
 }
 /*
@@ -108,7 +108,7 @@ body {
 	text-align: center;
 	background-color:black;
 	color:red;
-	height:200px;
+	height:295px;
 	background-image: url(../img/carbon.jpg);
 	background-repeat: no-repeat;
 }
@@ -139,7 +139,7 @@ body {
 #vataheader {
 	position:v;
 	background-color:white;
-	min-height:162px;
+	min-height:184px;
 	margin:0px 0 0 0;
 	background-image: url(../img/carbon_header_left.jpg);
 
@@ -147,7 +147,7 @@ body {
 #wataheader {
 	position:w;
 	background-color:white;
-	min-height:162px;
+	min-height:184px;
 	margin:0px 0 0 0;
 	background-image: url(../img/carbon_header_right.jpg);
 
@@ -166,16 +166,15 @@ body {
 #vatafoot {
 	position:k;
 	background-color:white;
-	min-height:200px;
+	min-height:295px;
 	background-image: url(../img/carbon_foot_left.jpg);
-
-
+	
+	
 }
 #watafoot {
 	position:l;
 	background-color:white;
-	min-height:200px;
+	min-height:295px;
 		background-image: url(../img/carbon_foot_right.jpg);
 }
 			/* Get rid of the margin, padding and bullets in the unordered lists */
- 

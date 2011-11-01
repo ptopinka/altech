@@ -46,7 +46,7 @@
 
 		<div id="content">
 
-		  <div class="obsah"> 
+		  <div class="obsahnoleftmenu"> 
         <div>
           <div style="display:inline;" id="navindex1">
             <a href="ezs.php"><img src="img/navigace_ezs.png"></a>

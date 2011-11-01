@@ -16,17 +16,17 @@ function printHeader() {
 	print <<<END
   		 <div id="header">
           <div class="headerlogo">
-  	    	  <a class="noborder1" href="index.php" alt="Svatebni dům Zbraslav" title="Svatební dům Zbraslav"><img src="img/web_zahlavi_logo.png"></a> 
+  	    	  <a class="noborder1" href="index.php" alt="Altech" title="Altech"><img src="img/web_zahlavi_logo.png"></a> 
           </div>
 		      <div class="headerbanner">
-		        <a class="noborder" href="index.php" alt="Svatebni dům Zbraslav" title="Svatební dům Zbraslav"><img src="img/header.png"></a>
+		        <a class="noborder" href="index.php" alt="Altech" title="Altech"><img src="img/header.png"></a>
           </div>
 
           
 			    <div id="prouzek">
 	          <div style="display:inline;padding-left:80px">
-	                                      <a href="uvod.php"><img style="border:0;" class="swapImage {src: 'img/nav_uvod_light.png'}" src="img/nav_uvod_dark.png"/></a></div>
-	          <div style="display:inline;"><a href="onas.php"><img style="border:0;"  class="swapImage {src: 'img/nav_onas_light.png'}"src="img/nav_onas_dark.png"/></a></div>
+	                                      <a href="uvod.php"><img style="border:0" class="swapImage {src: 'img/nav_uvod_light.png'}" src="img/nav_uvod_dark.png"/></a></div>
+	          <div style="display:inline;"><a href="onas.php"><img style="border:0"  class="swapImage {src: 'img/nav_onas_light.png'}"src="img/nav_onas_dark.png"/></a></div>
 	          <div style="display:inline;"><a href="reference.php"><img style="border:0;" class="swapImage {src: 'img/nav_ref_light.png'}" src="img/nav_ref_dark.png"/></a></div>
 	          <div style="display:inline;"><a href="spoluprac.php"><img style="border:0;" class="swapImage {src: 'img/nav_spoluprac_light.png'}" src="img/nav_spoluprac_dark.png"/></a></div>
 	          <div style="display:inline;"><a href="kamery.php"><img style="border:0;" class="swapImage {src: 'img/nav_kamery_light.png'}"  src="img/nav_kamery_dark.png"/></a></div>
@@ -70,7 +70,7 @@ END;
 
 function printTitle() {
 	print <<<END
-  	<title>Svatební dům Zbraslav</title>
+  	<title>Altech</title>
 END;
 }
 

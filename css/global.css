@@ -28,9 +28,14 @@
 }
 
 .headerlogo {
-	width: 240px;
+	width: 260px;
 	float: left;
-	padding-top:15px;
+	padding-top:37px;
+	padding-left:15px;
+}
+.headerlogo img {
+	width: 210px;
+	height: 101px;
 }
 
 .headerbanner {
@@ -70,7 +75,7 @@
 	margin-top: 100px;
 }
 
-.obsah { 
+.obsahnoleftmenu { 
 	width:1010px;
 	text-align:center;
 	min-height: 400px;
@@ -81,6 +86,25 @@
 	}
 
 
+.obsah { 
+		width:700px;
+		text-align:left;
+		min-height: 400px;
+		padding: 31px 40px 0 40px;
+		font-family: Calibri, Ebrima, Geneva; 
+		font-size: 14px;
+		color: #717171;
+		}
+		
+#kamera {
+	position: absolute;
+	height: 150px;
+	width:150px;
+	left:500px;
+	bottom:0px;
+	margin: 0 0 80px 0;
+}		
+		
 #prouzek {
 	position: absolute;
 	
@@ -89,7 +113,7 @@
 	width: 800px;
 	left: 240px;
 	bottom: 0px;
-	margin:0 0 0 0;
+	margin:0 0 14px 0;
 	
 }
 
