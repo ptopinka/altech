@@ -95,6 +95,25 @@
 		font-size: 14px;
 		color: #717171;
 		}
+
+#contenttop {
+	position:absolute;
+	width:170px;
+	left:212px;
+	top:56px;
+	min-height:180px;
+	z-index:30;
+}
+
+#contenttop img {
+	position:absolute;
+	width:168;
+	left:212px;
+	top:56px;
+	height:177px;
+	z-index:30;
+}
+
 		
 #kamera {
 	position: absolute;

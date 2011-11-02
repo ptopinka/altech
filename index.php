@@ -63,12 +63,14 @@
             <a href="vstupy.php"><img src="img/navigace_vstupy.png"></a>
           </div>
         </div>
+        <div id="contenttop"> <!-- vrstva pro kameru -->
+          <img src="img/oko.png">
+        </div>
+
 		  </div> <!-- end obsah-->
   		
 		
   </div>  <!-- konec content  -->
-
-
 
 	<div id="footer">
 		<?php
