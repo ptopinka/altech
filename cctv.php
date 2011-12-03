@@ -47,7 +47,6 @@
 	</div>
 
 		<div id="content">
-
 		  
 		  <div class="obsah"> 
        
@@ -69,29 +68,33 @@
 				formou. Rozvoj internetu a komunikačních sítí v dnešní době umožňuje
 				dálkový dohled přes jiný klientský počítač (i přenosný). Vedle
 				známých aplikací v obchodních domech videotechnika slouží zejména v
-				oblasti venkovních ochran ve spojení s prostředky obvodové ochrany.
+				oblasti venkovních ochran</br> ve spojení s prostředky obvodové ochrany.
 				Hlídací služba pak nemusí ověřovat příčinu poplachu přímo na místě,
 				ale může pomocí automaticky zapnuté kamery a osvětlení pozorovat
 				konkrétní prostor bez rizika ohrožení osob. (výňatek z odborné
 				literatury)
 
 
+<span style="position: relative;float: right;padding:30px;margin-right:-40px;"> <img src="img/kamera.png"/> </span>
 
 
 				<h3>Výhody našich kamerových systémů</h3>
 
 
-				Nasazení videotechniky je pro každý jednotlivý případ
-				neopakovatelné, a proto klademe důraz na správně provedený návrh
-				funkčního systému. K tomu je potřeba relativně vysoká úroveň
-				všeobecných i konkrétních znalostí z oboru. Naše firma proto
-				spolupracuje přímo s výrobci, popř. autorizovanými dovozci
+				
+				Nasazení videotechniky je pro každý jednotlivý případ neopakovatelné, </br>
+				a proto klademe důraz na správně provedený návrh funkčního systému.</br>
+				K tomu je potřeba relativně vysoká úroveň
+				všeobecných i konkrétních znalostí z oboru. 
+				
+				Naše firma proto
+				spolupracuje přímo s výrobci, </br>popř. autorizovanými dovozci
 				videotechniky. V současné době jsme schopni realizovat dodávku
 				jakéhokoliv kamerového systému. Zároveň můžeme poskytnout i odborná
 				školení zabývající se touto problematikou.	    
-        <div id="kamera">
+        <!--<div id="kamera">
           <img src="img/kamera.png"/>
-        </div>
+        </div>-->
 		  </div> <!-- end obsah-->
  
   </div>  <!-- konec content  -->

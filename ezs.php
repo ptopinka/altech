@@ -61,12 +61,12 @@
 					nejefektivnější způsob ochrany majetku je instalace elektrické
 					zabezpečovací signalizace (EZS).</br>
 					Provádíme projektování a montáže zabezpečovacích systémů pro všechny
-					druhy objektů. Vždy s ohledem na požadavky zákazníka, objektivní
+					druhy objektů. </br>Vždy s ohledem na požadavky zákazníka, objektivní
 					potřeby a finanční možnosti.</br>
 					Napojujeme zabezpečené objekty na pulty centrální ochrany.
 					Poradenskou činností chceme zabránit použití nevhodné zabezpečovací
 					techniky. Námi dodané systémy EZS jsou z produkce renomovaných
-					společností a jedná se výhradně o technologie s osvědčením z
+					společností </br>a jedná se výhradně o technologie s osvědčením z
 					akreditovaných laboratoří EZS a certifikovaných Českou asociací
 					pojišťoven či Národním bezpečnostním úřadem.
 

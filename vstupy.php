@@ -97,7 +97,7 @@
 				<h3>Brány a vrata</h3>
 
 Nabízíme široký výběr produktů, od pohonu křídlových a posuvných
-bran, garážových vrat, okenic, závor a automatických dveří, až po
+bran, garážových vrat, okenic, závor </br>a automatických dveří, až po
 kompletní parkovací systémy, systémy kontrolovaného průchodu a
 kompletní příslušenství k automatickým pohonným systémům.
 Klademe vždy důraz na ochranu a bezpečnost provozu automatických

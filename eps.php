@@ -64,7 +64,7 @@
 				průmyslové objekty, zdravotnická zařízení, hotely, památkové objekty
 				a rodinné domy. V době moderních technologií a schopností různých
 				systémů mezi sebou spolupracovat umožňují požární systémy mnoho
-				nadstavbových funkcí. Od základního spuštění samohasících zařízení,
+				nadstavbových funkcí. Od základního spuštění samohasících zařízení,<br/>
 				signalizace na pult centrální ochrany Hasičského záchranného sboru,
 				až po automatické otevření únikových cest, vypnutí ohrožených
 				elektrických rozvodů či uzavření nejdůležitějších prostor a
@@ -77,7 +77,7 @@
 				Firma Altech Servis s.r.o. provádí projektování a montáže
 				elektrických požárních signalizací (EPS) dle platných norem ČSN-EN a
 				dle vyjádření hasičského záchranného sboru. Zároveň poskytujeme
-				možnost připojení objektu na pulty centrální ochrany. Dodáváme pouze
+				možnost připojení objektu <br/>na pulty centrální ochrany. Dodáváme pouze
 				nejkvalitnější technologie renomovaných výrobců.
 
 		    </div> <!-- end obsah-->

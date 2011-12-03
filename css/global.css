@@ -1,5 +1,5 @@
 
-
+h2 {text-align: center;}
 #figure p {
 	float: right;
 	width: 150px;
@@ -92,8 +92,8 @@
 		min-height: 400px;
 		padding: 31px 40px 30px 40px;
 		font-family: Calibri, Ebrima, Geneva; 
-		font-size: 14px;
-		color: #717171;
+		font-size: 15px;
+		color: #544E4F;    /*pøedchozí, hùøe èitelná #717171; */
 		}
 
 #contenttop {
