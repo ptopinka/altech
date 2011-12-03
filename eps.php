@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+﻿<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
  
 <?php 
   require("functions.php");
@@ -51,10 +51,36 @@
  
 		  
 		  <div class="obsah"> 
-		    
+		    <h2>Požární zabezpečení</h2>
 
-		    
-		  </div> <!-- end obsah-->
+
+				<h3>Úloha a smysl požárního zabezpečení</h3>
+
+
+				Nedílnou součástí ochrany objektů je elektrická požární signalizace
+				(EPS), která slouží k včasnému odhalení začínajících požárů a
+				zabraňuje tak velkým majetkovým škodám. Naše firma provádí instalaci
+				a zajišťuje servis požárních systémů ve všech typech objektů -
+				průmyslové objekty, zdravotnická zařízení, hotely, památkové objekty
+				a rodinné domy. V době moderních technologií a schopností různých
+				systémů mezi sebou spolupracovat umožňují požární systémy mnoho
+				nadstavbových funkcí. Od základního spuštění samohasících zařízení,
+				signalizace na pult centrální ochrany Hasičského záchranného sboru,
+				až po automatické otevření únikových cest, vypnutí ohrožených
+				elektrických rozvodů či uzavření nejdůležitějších prostor a
+				zabránění tak šíření požáru.
+
+
+				<h3>Montáže požárního zabezpečení</h3>
+
+
+				Firma Altech Servis s.r.o. provádí projektování a montáže
+				elektrických požárních signalizací (EPS) dle platných norem ČSN-EN a
+				dle vyjádření hasičského záchranného sboru. Zároveň poskytujeme
+				možnost připojení objektu na pulty centrální ochrany. Dodáváme pouze
+				nejkvalitnější technologie renomovaných výrobců.
+
+		    </div> <!-- end obsah-->
   		
 		
   </div>  <!-- konec content  -->

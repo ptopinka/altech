@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+﻿<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
  
 <?php 
   require("functions.php");
@@ -50,12 +50,45 @@
 
 		  
 		  <div class="obsah"> 
-          <h3>Uzavřené televizní okruhy – CCTV</h3>
+       
+			
+<h2 align="center"> Kamerové systémy</h2>
 
-        Systémy CCTV jsou vhodné především jako podpora klasické EZS, v některých speciálních případech však může elektronické videostřežení
-        část úloh EZS přímo převzít. Vedle známých aplikací v obchodních domech videotechnika slouží zejména v oblasti venkovních ochran 
-        ve spojení s prostředky obvodové ochrany. Hlídací služba pak nemusí ověřovat příčinu poplachu přímo na místě, 
-        ale může pomocí automaticky zapnuté kamery a osvětlení pozorovat konkrétní prostor bez rizika ohrožení osob.		    
+				<h3>Úloha kamerových systémů</h3>
+
+
+				Kamerové systémy CCTV (Close circuit television - uzavřené televizní
+				okruhy) patří v současné době k nejvíce expandujícím technologiím.
+				Tyto systémy jsou populární především všestranností svého využití.
+
+				Kamerové systémy jsou vhodné jako podpora EZS a v některých
+				případech může videostřežení část úloh EZS přímo převzít. Lze totiž
+				zaregistrovat pokus o napadení objektu a zjistit jeho druh či počet
+				útočníků. K pozdější analýze průběhu napadení lze události
+				archivovat v dnešní době již nejběžnějším způsobem - digitalizovanou
+				formou. Rozvoj internetu a komunikačních sítí v dnešní době umožňuje
+				dálkový dohled přes jiný klientský počítač (i přenosný). Vedle
+				známých aplikací v obchodních domech videotechnika slouží zejména v
+				oblasti venkovních ochran ve spojení s prostředky obvodové ochrany.
+				Hlídací služba pak nemusí ověřovat příčinu poplachu přímo na místě,
+				ale může pomocí automaticky zapnuté kamery a osvětlení pozorovat
+				konkrétní prostor bez rizika ohrožení osob. (výňatek z odborné
+				literatury)
+
+
+
+
+				<h3>Výhody našich kamerových systémů</h3>
+
+
+				Nasazení videotechniky je pro každý jednotlivý případ
+				neopakovatelné, a proto klademe důraz na správně provedený návrh
+				funkčního systému. K tomu je potřeba relativně vysoká úroveň
+				všeobecných i konkrétních znalostí z oboru. Naše firma proto
+				spolupracuje přímo s výrobci, popř. autorizovanými dovozci
+				videotechniky. V současné době jsme schopni realizovat dodávku
+				jakéhokoliv kamerového systému. Zároveň můžeme poskytnout i odborná
+				školení zabývající se touto problematikou.	    
         <div id="kamera">
           <img src="img/kamera.png"/>
         </div>
