@@ -50,7 +50,7 @@
 
  
 		  
-		  <div class="obsah"> 
+		  <div class="obsah"> <h2 style="color:#277f4d">Zabezpečovací signalizace EZS</h2>
 					<h3>Zabezpečovací technika</h3>
 					Neustálý nárůst kriminality v oblasti majetkové trestné činnosti
 					klade čím dál větší požadavky na ochranu majetku.</br></br>
@@ -72,10 +72,10 @@
 
 		    
 		   
-		  </div> <!-- end obsah-->
+		  </div> <!--end obsah-->
   		
 		
-  </div>  <!-- konec content  -->
+  </div>  <!--konec content  -->
 
 
 

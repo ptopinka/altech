@@ -51,7 +51,7 @@
  
 		  
 		  <div class="obsah"> 
-		    <h2>Požární zabezpečení</h2>
+		    <h2 style="color:#ac2b1d">Požární zabezpečení</h2>
 
 
 				<h3>Úloha a smysl požárního zabezpečení</h3>
@@ -80,10 +80,10 @@
 				možnost připojení objektu <br/>na pulty centrální ochrany. Dodáváme pouze
 				nejkvalitnější technologie renomovaných výrobců.
 
-		    </div> <!-- end obsah-->
+		    </div> <!--end obsah-->
   		
 		
-  </div>  <!-- konec content  -->
+  </div>  <!--konec content  -->
 
 
 

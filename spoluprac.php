@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+﻿<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
  
 <?php 
   require("functions.php");
@@ -50,9 +50,8 @@
 
  
 		  
-		  <div class="obsah"> 
-		    
-
+		  <div class="obsah">  <h2 style="color:#dfa750">ALTECH SERVIS s.r.o. je dodavatelem technologie CCTV a EZS od předních světových výrobců: </h2>
+		 
 		    
 		  </div> <!-- end obsah-->
   		

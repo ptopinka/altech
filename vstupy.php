@@ -52,7 +52,7 @@
 		  
 		  <div class="obsah"> 
 		    
-
+<h2 style="color:#dfa750"> Kotrola vstupu</h2>
 		    <h3>Přístupové systémy</h3>
 
 
@@ -112,10 +112,10 @@ případně výjezdů z objektů podnikových parkovišť, domovních dvorů,
 výrobních závodů a dalších prostor, kde je požadavek na uzavření
 objektu před vjezdem nežádoucích vozidel.
 
-		  </div> <!-- end obsah-->
+		  </div> <!--end obsah-->
   		
 		
-  </div>  <!-- konec content  -->
+  </div>  <!--konec content  -->
 
 
 

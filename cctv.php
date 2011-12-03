@@ -51,12 +51,12 @@
 		  <div class="obsah"> 
        
 			
-<h2 align="center"> Kamerové systémy</h2>
+<h2 style="color:#3b7bac"> Kamerové systémy</h2>
 
 				<h3>Úloha kamerových systémů</h3>
 
 
-				Kamerové systémy CCTV (Close circuit television - uzavřené televizní
+				Kamerové systémy CCTV (Close circuit television <li>uzavřené televizní
 				okruhy) patří v současné době k nejvíce expandujícím technologiím.
 				Tyto systémy jsou populární především všestranností svého využití.
 
@@ -64,15 +64,15 @@
 				případech může videostřežení část úloh EZS přímo převzít. Lze totiž
 				zaregistrovat pokus o napadení objektu a zjistit jeho druh či počet
 				útočníků. K pozdější analýze průběhu napadení lze události
-				archivovat v dnešní době již nejběžnějším způsobem - digitalizovanou
+				archivovat v dnešní době již nejběžnějším způsobem <li>digitalizovanou
 				formou. Rozvoj internetu a komunikačních sítí v dnešní době umožňuje
 				dálkový dohled přes jiný klientský počítač (i přenosný). Vedle
 				známých aplikací v obchodních domech videotechnika slouží zejména v
 				oblasti venkovních ochran</br> ve spojení s prostředky obvodové ochrany.
 				Hlídací služba pak nemusí ověřovat příčinu poplachu přímo na místě,
 				ale může pomocí automaticky zapnuté kamery a osvětlení pozorovat
-				konkrétní prostor bez rizika ohrožení osob. (výňatek z odborné
-				literatury)
+				konkrétní prostor bez rizika ohrožení osob. <div style="text-align:right"><i>(výňatek z odborné
+				literatury)</i></div>
 
 
 <span style="position: relative;float: right;padding:30px;margin-right:-40px;"> <img src="img/kamera.png"/> </span>
@@ -95,9 +95,9 @@
         <!--<div id="kamera">
           <img src="img/kamera.png"/>
         </div>-->
-		  </div> <!-- end obsah-->
+		  </div> <!--end obsah-->
  
-  </div>  <!-- konec content  -->
+  </div>  <!--konec content  -->
 
 
 
