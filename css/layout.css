@@ -7,7 +7,7 @@ body {
                 "kffl"
     * 270px minmax(740px,740px) *;
 	width: 100%;
-	background: white; 
+	background: #E9E7E7; 
 	
 	
 }
@@ -123,7 +123,7 @@ body {
 	position: o;
 	padding: 6 px;
 	text-align: left;
-	background-color:white;
+	background-color:#E9E7E7;
 	font-size: 1em;
 	width: 270px;     										  /* SIRKA MENU*/
 	color: black;
@@ -154,13 +154,13 @@ body {
 }
 #vatabody {
 	position:x;
-	background-color:white;
+	background-color:#E9E7E7;
 	min-height:400px;
 
 }
 #watabody {
 	position:y;
-	background-color:white;
+	background-color:#E9E7E7;
 	min-height:400px;
 }
 #vatafoot {

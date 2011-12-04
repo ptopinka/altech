@@ -50,7 +50,15 @@
 
  
 		  
-		  <div class="obsah">  <h2 style="color:#dfa750">ALTECH SERVIS s.r.o. je dodavatelem technologie CCTV a EZS od předních světových výrobců: </h2>
+		  <div class="obsah">  
+		  <h2>ALTECH SERVIS s.r.o. je dodavatelem 
+			technologie CCTV a EZS od předních světových výrobců: 
+			</h2>
+			V oblasti CCTV to jsou: 	    	SONY, AXIS, ACTi, VIVOTEK, PANASONIC, SAMSUNG, IQinVision.</br>
+ 
+			V oblasti EZS to jsou:		        PARADOX, Honeywell, DSC, TEXECOM, OPTEX, ARITECH.</br>
+			</br>
+			ALTECH SERVIS s.r.o. dále působí jako servisní organizace pro řadu velkých firem </br>v oblasti ochrany majetku a osob, například: ABL a.s., SV-AGENCY s.r.o., ELVIA spol. s r.o., COMINFO. a.s..
 		 
 		    
 		  </div> <!-- end obsah-->

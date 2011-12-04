@@ -51,7 +51,7 @@
 		  <div class="obsah"> 
        
 			
-<h2 style="color:#3b7bac"> Kamerové systémy</h2>
+<h2> Kamerové systémy</h2>
 
 				<h3>Úloha kamerových systémů</h3>
 

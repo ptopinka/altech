@@ -51,7 +51,7 @@
  
 		  
 		  <div class="obsah"> 
-		    <h2 style="color:#ac2b1d">Požární zabezpečení</h2>
+		    <h2>Požární zabezpečení</h2>
 
 
 				<h3>Úloha a smysl požárního zabezpečení</h3>

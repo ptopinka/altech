@@ -1,6 +1,6 @@
 
-h2 {text-align: left;padding:0 0 0 150px;}
-h3{color: #dfa750;}
+h2 {text-align: left;padding:0 0 0 0px;color:#4E4E4E;}
+h3{color:#4E4E4E;}
 #figure p {
 	float: right;
 	width: 150px;
@@ -94,8 +94,8 @@ h3{color: #dfa750;}
 		padding: 31px 40px 30px 40px;
 		font-family: Calibri, Ebrima, Geneva; 
 		font-size: 15px;
-		color: #544E4F;    /*pøedchozí, hùøe èitelná #717171; */
-		}
+		color: #544E4F;		/*pøedchozí, hùøe èitelná #717171; */
+		background: #E9E7E7;}
 
 #contenttop {
 	position:absolute;

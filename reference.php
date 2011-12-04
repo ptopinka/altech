@@ -50,7 +50,7 @@
 
  
 		  
-		  <div class="obsah">  <h2 style="color:#3b7bac">Výběr z Referencí </h2>
+		  <div class="obsah">  <h2>Výběr z Referencí </h2>
 		  <div style="padding:0px 20px 20px 60px;">
 		 
 		   <table style="position:relative; float: center">    <!--TAKE NEFUNGUJE-->

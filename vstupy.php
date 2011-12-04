@@ -52,7 +52,7 @@
 		  
 		  <div class="obsah"> 
 		    
-<h2 style="color:#dfa750"> Kotrola vstupu</h2>
+<h2> Kotrola vstupu</h2>
 		    <h3>Přístupové systémy</h3>
 
 
