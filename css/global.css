@@ -80,17 +80,16 @@ h3{color:#4E4E4E;}
 	width:1010px;
 	text-align:center;
 	min-height: 400px;
-	padding: 31px 0 0 0;
+	padding: 61px 0 0 0;
 	font-family: Calibri, Ebrima, Geneva; 
 	font-size: 12px;
 	color: #717171;
+	background-color:#E9E7E7;
 	}
 
 
 .obsah { 
-		width:700px;
 		text-align:left;
-		min-height: 400px;
 		padding: 31px 40px 30px 40px;
 		font-family: Calibri, Ebrima, Geneva; 
 		font-size: 15px;

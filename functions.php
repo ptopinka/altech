@@ -47,16 +47,16 @@ END;
 function printMenu() {
 	print <<<END
     <div id="sidetree">
-    <div id="navigace1" class="leftmenu">
+    <div id="navigace1" class="leftmenu" style="margin-top:10px;">
       <a href="ezs.php"><img src="img/nav_left_ezs.png"></a>
     </div>
-    <div id="navigace2" class="leftmenu">
+    <div id="navigace2" class="leftmenu" style="margin-top:8px;">
       <a href="cctv.php"><img src="img/nav_left_cctv.png"></a>
     </div>
-    <div id="navigace3" class="leftmenu">
+    <div id="navigace3" class="leftmenu" style="margin-top:8px;">
       <a href="eps.php"><img src="img/nav_left_eps.png"></a>
     </div>
-    <div id="navigace4" class="leftmenu">
+    <div id="navigace4" class="leftmenu" style="margin-top:7px;">
       <a href="vstupy.php"><img src="img/nav_left_vstupy.png"></a>
     </div>
 
