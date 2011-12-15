@@ -51,6 +51,7 @@
  
 		  
 		  <div class="obsah"> 
+		    <h3>Kontakty</h3>
 	      <table border="0">
         <tr >
         <td class="tdcontacts">Sídlo firmy:</td>         <td> Rytířova 778<br/>

@@ -51,8 +51,9 @@
  
 		  
 		  <div class="obsah"> 
-		    
-
+		    <h3>Online kamery</h3>
+        <a href="http://84.246.161.51/live/index.html">Panasonic Francouzská </a><br/>
+        <a href="http://84.246.161.53/en/index.html">Sony Francouzská</a>
 		    
 		  </div> <!-- end obsah-->
   		
