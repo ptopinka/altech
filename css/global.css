@@ -96,6 +96,8 @@ h3{color:#4E4E4E;}
 		color: #544E4F;		/*pøedchozí, hùøe èitelná #717171; */
 		background: #E9E7E7;}
 
+
+
 #contenttop {
 	position:absolute;
 	width:170px;
@@ -192,5 +194,10 @@ class noborder {
 .company a {
 		color: #717171;	
 		text-decoration:none;
+}
+
+.tdcontacts {
+		width:200px;
+		vertical-align:text-top;
 }
 
