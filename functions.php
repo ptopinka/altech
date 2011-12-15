@@ -19,7 +19,7 @@ function printHeader() {
   	    	  <a class="noborder1" href="index.php" alt="Altech" title="Altech"><img src="img/web_zahlavi_logo.png"></a> 
           </div>
 		      <div class="headerbanner">
-		        <a class="noborder" href="index.php" alt="Altech" title="Altech"><img src="img/header.png"></a>
+		        <a class="noborder" href="kontakty.php" alt="Altech" title="Altech"><img src="img/header.png"></a>
           </div>
 
           
