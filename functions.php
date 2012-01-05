@@ -206,7 +206,7 @@ function includeCSS_JS() {
 
 
 <script>
-//$.templateLayoutShowOnReady();
+$.templateLayoutShowOnReady();
 
 	
 	$(function() {
@@ -238,7 +238,7 @@ function includeCSS_JS() {
                      var a = location.pathname.split("/");
                      if ( a.length > 2 && a[a.length-1] == "vstupy.php" ) { 
                        $("#navigace4").hide() ;
-                       alert(a[a.length-1]);
+                       //alert(a[a.length-1]);
                      }
                      
                     
