@@ -48,16 +48,16 @@ function printMenu() {
 	print <<<END
     <div id="sidetree">
     <div id="navigace1" class="leftmenu" style="margin-top:10px;">
-      <a href="ezs.php"><img src="img/nav_left_ezs.png"></a>
+      <a id="l1" href="ezs.php"><img id="img1" src="img/nav_left_ezs.png"></a>
     </div>
     <div id="navigace2" class="leftmenu" style="margin-top:8px;">
-      <a href="cctv.php"><img src="img/nav_left_cctv.png"></a>
+      <a id="l2" href="cctv.php"><img id="img2" src="img/nav_left_cctv.png"></a>
     </div>
     <div id="navigace3" class="leftmenu" style="margin-top:8px;">
-      <a href="eps.php"><img src="img/nav_left_eps.png"></a>
+      <a href="eps.php"><img id="img3" src="img/nav_left_eps.png"></a>
     </div>
     <div id="navigace4" class="leftmenu" style="margin-top:7px;">
-      <a href="vstupy.php"><img src="img/nav_left_vstupy.png"></a>
+      <a href="vstupy.php"><img id="img4" src="img/nav_left_vstupy.png"></a>
     </div>
 
     </div>
@@ -160,8 +160,12 @@ function includeCSS_JS_noLeftMenu() {
 
            });
 
+       
+
        	</script>
-       	
+       
+       
+       
        	
           <script type="text/javascript">
                   YAHOO.plugin.SwapImage.bind(".swapImage");
@@ -202,7 +206,7 @@ function includeCSS_JS() {
 
 
 <script>
-$.templateLayoutShowOnReady();
+//$.templateLayoutShowOnReady();
 
 	
 	$(function() {
@@ -228,6 +232,42 @@ $.templateLayoutShowOnReady();
 
        });
 
+   
+                 $(document).ready(function() {
+                     // && a[2] == "mine"
+                     var a = location.pathname.split("/");
+                     if ( a.length > 2 && a[a.length-1] == "vstupy.php" ) { 
+                       $("#navigace4").hide() ;
+                       alert(a[a.length-1]);
+                     }
+                     
+                    
+                  });	
+   
+               
+
+
+
+                   /*
+                    $("a").click(function(event) {
+                        var idd = event.target.id;
+                        
+                        
+                       
+                        if(idd == 'img1' || idd == 'img2' || idd == 'img3' || idd == 'img4') {
+                            //$("button").click(function(){
+                             //   $("div").fadeTo("slow",0.25);
+                             // });
+                            $(idd).fadeTo("slow",0.25);
+                            $("#navigace1").hide();
+                        }
+                      
+                    });
+                    */
+                  
+
+
+   
    	</script>
 
 
