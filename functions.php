@@ -124,14 +124,7 @@ function includeCSSJS() {
 
 
 
-      <script>
-      $.templateLayoutShowOnReady();
-
-
-      	$(function() {
-      		$.setTemplateLayout('css/layout_noleftmenu.css');
-      	});
-      	</script>
+    
 
       <script type="text/javascript">													<!--FOTO ZOOM -->
           hs.graphicsDir = 'js/highslide/graphics/';
