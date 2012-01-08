@@ -11,65 +11,55 @@
   <?php
     printTitle();
   
-    includeCSS_JS();
+    includeCSSJS();
   ?>
-
-
 </head>
 
+
 <body>
+  <div id="head-container">
+      <?php
+        printHeader();
+      ?>
+		</div>
 
-	
-		<?php
-		  printHeader();
-		?>
-	
-	
-	<div id="vataheader">
-	</div>
-	<div id="wataheader">
-	</div>
-	<div id="vatabody">
-	</div>
-	<div id="watabody">
-	</div>
-	<div id="vatafoot">
-	</div>
-	<div id="watafoot">
-	</div>
-	
-	<div id="pmenu">
-		<?php
-		  printMenu();
-		?>
-	
-				
-	</div>
 
-		<div id="content">
+  </div>
+  <div id="navigation-container">
+  	<div id="navigation">
+    </div>
+  </div>
+  <div id="content-container">
+  	<div id="content-container2">
+  		<div id="content-container3">
 
+  			<div id="aside">
+      		<?php
+      		  printMenu();
+      		?>
+  			</div>
+
+  			<div id="content">
+
+    		  <div class="obsah"> 
+    		    <h3>Online kamery</h3>
+            <a href="http://84.246.161.51/live/index.html">Panasonic Francouzská </a><br/>
+            <a href="http://84.246.161.53/en/index.html">Sony Francouzská</a>
+
+    		  </div> <!-- end obsah-->
  
-		  
-		  <div class="obsah"> 
-		    <h3>Online kamery</h3>
-        <a href="http://84.246.161.51/live/index.html">Panasonic Francouzská </a><br/>
-        <a href="http://84.246.161.53/en/index.html">Sony Francouzská</a>
-		    
-		  </div> <!-- end obsah-->
-  		
-		
-  </div>  <!-- konec content  -->
 
 
-
-	<div id="footer">
-
-		<?php
-		  printFooter();
-		?>
-	</div>
- 
-</body>	
-	
-
-
+  			</div>
+  		</div>
+  	</div>
+  	<div id="footer-container">
+  		<div id="footer">
+  			<?php
+    		  printFooter();
+    		?>
+  		</div>
+  	</div>
+  </div>
+</body>
+</html>

@@ -11,90 +11,80 @@
   <?php
     printTitle();
   
-    includeCSS_JS();
+    includeCSSJS();
   ?>
-
-
 </head>
 
+
 <body>
+  <div id="head-container">
+      <?php
+        printHeader();
+      ?>
+		</div>
 
-	
-		<?php
-		  printHeader();
-		?>
-	
-	
-	<div id="vataheader">
-	</div>
-	<div id="wataheader">
-	</div>
-	<div id="vatabody">
-	</div>
-	<div id="watabody">
-	</div>
-	<div id="vatafoot">
-	</div>
-	<div id="watafoot">
-	</div>
-	
-	<div id="pmenu">
-		<?php
-		  printMenu();
-		?>
-	
-				
-	</div>
 
-		<div id="content">
+  </div>
+  <div id="navigation-container">
+  	<div id="navigation">
+    </div>
+  </div>
+  <div id="content-container">
+  	<div id="content-container2">
+  		<div id="content-container3">
 
+  			<div id="aside">
+      		<?php
+      		  printMenu();
+      		?>
+  			</div>
+
+  			<div id="content">
+
+    		  <div class="obsah"> 
+    		    <h3>Kontakty</h3>
+    	      <table border="0">
+            <tr >
+            <td class="tdcontacts">Sídlo firmy:</td>         <td> Rytířova 778<br/>
+                                           Praha 4 - Kamýk<br/>
+                                           14300</td>
+            </tr> 
+            <tr>                               
+            <td class="tdcontacts">Provozovna:</td>          <td> V Občanském domově 1511/2A<br/>
+                                           Praha 4 Nusle<br/>
+                                           14000<br/>
+                                           tel: +420 244 461 559
+                                           </td>
+            <tr/>
+            <tr>                               
+            <td class="tdcontacts">Vedení Společnosti:</td><td> Jednatel<br/>
+                                           Jiří Svoboda<br/>
+                                           mt.: +420 608 862 702
+                                           </td>
+            </tr>
+            <tr>                               
+            <td class="tdcontacts">Obchodní oddělení:</td><td> Obchodní ředitel<br/>
+                                           Richard Jura<br/>
+                                           mt.: +420 737 332 349
+                                        </td>
+            </tr>                            
+    	      </table>
+
+
+    		  </div> <!-- end obsah-->
  
-		  
-		  <div class="obsah"> 
-		    <h3>Kontakty</h3>
-	      <table border="0">
-        <tr >
-        <td class="tdcontacts">Sídlo firmy:</td>         <td> Rytířova 778<br/>
-                                       Praha 4 - Kamýk<br/>
-                                       14300</td>
-        </tr> 
-        <tr>                               
-        <td class="tdcontacts">Provozovna:</td>          <td> V Občanském domově 1511/2A<br/>
-                                       Praha 4 Nusle<br/>
-                                       14000<br/>
-                                       tel: +420 244 461 559
-                                       </td>
-        <tr/>
-        <tr>                               
-        <td class="tdcontacts">Vedení Společnosti:</td><td> Jednatel<br/>
-                                       Jiří Svoboda<br/>
-                                       mt.: +420 608 862 702
-                                       </td>
-        </tr>
-        <tr>                               
-        <td class="tdcontacts">Obchodní oddělení:</td><td> Obchodní ředitel<br/>
-                                       Richard Jura<br/>
-                                       mt.: +420 737 332 349
-                                    </td>
-        </tr>                            
-	      </table>
-
-		    
-		  </div> <!-- end obsah-->
-  		
-		
-  </div>  <!-- konec content  -->
 
 
-
-	<div id="footer">
-
-		<?php
-		  printFooter();
-		?>
-	</div>
- 
-</body>	
-	
-
-
+  			</div>
+  		</div>
+  	</div>
+  	<div id="footer-container">
+  		<div id="footer">
+  			<?php
+    		  printFooter();
+    		?>
+  		</div>
+  	</div>
+  </div>
+</body>
+</html>

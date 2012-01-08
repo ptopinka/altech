@@ -1,181 +1,243 @@
-﻿
 body { 
 	margin: 0px 0 0 0;
 	padding: 0;
-    display:    "vhhw"
-                "xocy"
-                "kffl"
-    * 270px minmax(740px,740px) *;
-	width: 100%;
+ 	width: 100%;
 	background: #E9E7E7; 
 	
 	
 }
 
- #header { 
-	position: h;
-	text-align: left;
-	border: 0px;
-	margin:0px 0 0 0;
-	padding: 0px 0px 0px 0px;
-	height: 184px;
+#head-container
+{
+	color: #000;
+	background: #ccc;
+	height:184px;
 	background-image: url(../img/carbon.jpg);
-	background-repeat: no-repeat;
+	
+}
 
-	}
+#header
+{
+	margin: 0 auto;
+	width: 1010px;
+	padding: 0px;
+	height:184px;
 
-	/*
-	#jazyk {
-			position: absolute;
-			right: -10px; 
-			top: 10px;
-			font-size: 0.7em;
-			font-family: Ebrima, Calibri, Geneva; 
-			}
-			*/
+	border: 0px;
+	padding: 0px 0px 0px 0px;
+	
+	position:relative;
+	
+
+
+}
+
 .noborder2 img {                            /*odkazy v index*/
 	border: none; margin: 0 0px 0px 0px;
 
 }
 .noborder1 img {									/*logo*/
 	border: none; margin: 0 80px 0 0px;
-	width: 190px;
+	width: 200px;
 }
 .noborder img {										/*letak*/
 	border: none;
 }
 
 
+#prouzek {
+	position: absolute;
+	
+	top:136px;
+	height: 32px;
+	width: 800px;
+	left: 241px;
+		margin:0 0 14px 0;
+	
+}
+
+.headerlogo {
+	width: 260px;
+	float: left;
+	padding-top:37px;
+	padding-left:15px;
+}
+
+
+.headerbanner {
+	float:right;
+	padding: 20px 0px 10px 0;
+}
 
 
 
+#header h1 { margin: 0; }
 
-.banner {
-	width: 200px;  
+#navigation-container
+{
+	float: left;
+	width: 100%;
+	color: #000;
+	background: #333;
+}
 
-	float:right; 
-	margin: 0px 0 0 0px;
-	text-align: justify;
-	height:100%;
+#navigation
+{
+	margin: 0 auto;
+	width: 1010px;
+}
+
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+#navigation li a
+{
+	display: block;
+	float: right;
+	padding: 5px 10px;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+}
+
+#navigation li a:hover { background: #383; }
+
+#content-container
+{
+	float: left;
+	width: 100%;
+	color: #000;
+	background: #E9E7E7;
+	height:400;
+	
+}
+
+#content-container2
+{
+	margin: 0 auto;
+	width: 1010px;
+}
+
+#content-container3
+{
+	float: left;
+	width: 1010px;
+	height:461px;
+	background: #E9E7E7;
+}
+
+#content
+{
+	clear: right;
+	float: right;
+	width: 740px;
+	height:461px;
+	overflow: auto;
+	font-family: Calibri, Ebrima, Geneva; 
+	font-size: 15px;
+	color: #544E4F;		/*pøedchozí, hùøe èitelná #717171; */
+	background: #E9E7E7;
+	z-index: 20;
+	
+
+}
+
+#content_noleft
+{
+	/*position:relative;
+	*/
+	width: 1010px;
+	padding: 61px 0 0 0;	
+	margin: 0 20px 0 0px;
+	display: inline;
+	height:461px;
+	overflow: auto;
+}
+
+.obsah { 
+		text-align:left;
+		padding: 28px 40px 30px 40px;
+		font-family: Calibri, Ebrima, Geneva; 
+		font-size: 14px;
+		color: #544E4F;		/*pøedchozí, hùøe èitelná #717171; */
+		background: #E9E7E7;
+		overflow:auto;
+		height:461px;
+		}
+
+
+.obsahnoleftmenu { 
+	width:1010px;
+	text-align:center;
+	min-height: 400px;
+	padding: 61px 0 0 0;
+	font-family: Calibri, Ebrima, Geneva; 
+	font-size: 12px;
+	color: #717171;
+	background-color:#E9E7E7;
+	position:relative;
 	}
 
 
 
+#contenttop {
+	position:absolute;
 
-#content { 
-	position: c;
-	color: black;
-	margin: 0px 0px 0 0;
-	padding: 0px;
+	top:56px;
+	min-height:180px;
+	z-index:30;
+}
+
+#contenttop img {
+	position:absolute;
+	width:168;
+	left:425px;
+	top:79px;
+	height:177px;
+	z-index:30;
+}
+
+#content h2 { margin: 0; }
+
+#aside
+{
+	float: left;
+	width: 270px;
+	height:461px;
+
+	
+	padding: 6 px;
+	
 	background-color:#E9E7E7;
-	width: 740px;
-	overflow: auto;
-	height: 400px;
-	z-index: 20;
-
-}
-/*
-		#letak {text-align: center;width: 644px;float: left; margin:25px 0px 0 0px;
-			border-left: 0px dotted #831f7f;
-			padding: 0 14px 0 14px;}
-		#banner2 {width: 122px;
-			border: solid black 0px;float:right;
-			margin: 25px 0 0 0;}
-*/
-
-#odkazy {
-	text-align: center;
-	width: 100%;float: left;
-	margin:0px 0px 0 0px;
-	border-left: 0px dotted #831f7f;
-	padding: 0 0px 0 0px;
+	width: 270px;     										  /* SIRKA MENU*/
+	
 }
 
 
-
-
-
-
-
-
-
-
-
-						/*#nav2 li a:active, #nav2 li a:focus {background:#dfd7ca; color:#c00;} zkopceno z 55.radku*/
-
-
-#footer { 
-	position: f; 
-	text-align: center;
-	background-color:black;
-	color:red;
+#footer-container
+{
+	clear: left;
+	color: #fff;
+	background: #000;
 	height:110px;
 	background-image: url(../img/carbon_foot.jpg);
-	background-repeat: repeat-y;
-}
-
-
-
-#thumb1 {}
-
-
-
-#pmenu{
-	position: o;
-	padding: 6 px;
-	text-align: left;
-	background-color:#E9E7E7;
-	font-size: 1em;
-	width: 270px;     										  /* SIRKA MENU*/
-	color: black;
-	margin: 0px;
-	min-height:400px;
-	font-family: Calibri, Ebrima, Geneva; 
-	font-size: 15px;
-	border-left: 0px dotted #831f7f;
-	border-right: 0px dotted #831f7f;
 
 }
 
-#vataheader {
-	position:v;
-	background-color:white;
-	min-height:184px;
-	margin:0px 0 0 0;
-	background-image: url(../img/carbon_header_left.jpg);
-
+#footer
+{
+	margin: 0 auto;
+	width: 1010px;
+	text-align: center;
+	padding: 20px;
+	height: 110px;
 }
-#wataheader {
-	position:w;
-	background-color:white;
-	min-height:184px;
-	margin:0px 0 0 0;
-	background-image: url(../img/carbon_header_right.jpg);
-
-}
-#vatabody {
-	position:x;
-	background-color:#E9E7E7;
-	min-height:400px;
-
-}
-#watabody {
-	position:y;
-	background-color:#E9E7E7;
-	min-height:400px;
-}
-#vatafoot {
-	position:k;
-	background-color:white;
-	min-height:110px;
-	background-image: url(../img/carbon_foot_left.jpg);
-	
-	
-}
-#watafoot {
-	position:l;
-	background-color:white;
-	min-height:110px;
-		background-image: url(../img/carbon_foot_right.jpg);
-}
-			/* Get rid of the margin, padding and bullets in the unordered lists */
