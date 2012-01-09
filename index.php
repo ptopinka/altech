@@ -49,7 +49,7 @@
                 <a href="ezs.php"><img src="img/navigace_ezs.png"></a>
               </div>
               <div style="display:inline;" id="navindex2">
-                <a href="cctv_new.php"><img src="img/navigace_cctv.png"></a>
+                <a href="cctv.php"><img src="img/navigace_cctv.png"></a>
               </div>
             </div>
             <div>

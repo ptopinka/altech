@@ -2,7 +2,7 @@ body {
 	margin: 0px 0 0 0;
 	padding: 0;
  	width: 100%;
-	background: #E9E7E7; 
+	background: #e2e3e3; 
 	
 	
 }
@@ -116,7 +116,7 @@ body {
 	float: left;
 	width: 100%;
 	color: #000;
-	background: #E9E7E7;
+	background: #e2e3e3;
 	height:400;
 	
 }
@@ -132,7 +132,7 @@ body {
 	float: left;
 	width: 1010px;
 	height:461px;
-	background: #E9E7E7;
+	background: #e2e3e3;
 }
 
 #content
@@ -145,7 +145,7 @@ body {
 	font-family: Calibri, Ebrima, Geneva; 
 	font-size: 15px;
 	color: #544E4F;		/*pøedchozí, hùøe èitelná #717171; */
-	background: #E9E7E7;
+	background: #e2e3e3;
 	z-index: 20;
 	
 
@@ -169,7 +169,7 @@ body {
 		font-family: Calibri, Ebrima, Geneva; 
 		font-size: 14px;
 		color: #544E4F;		/*pøedchozí, hùøe èitelná #717171; */
-		background: #E9E7E7;
+		background: #e2e3e3;
 		overflow:auto;
 		height:461px;
 		}
@@ -183,7 +183,7 @@ body {
 	font-family: Calibri, Ebrima, Geneva; 
 	font-size: 12px;
 	color: #717171;
-	background-color:#E9E7E7;
+	background-color:#e2e3e3;
 	position:relative;
 	}
 
@@ -217,7 +217,7 @@ body {
 	
 	padding: 6 px;
 	
-	background-color:#E9E7E7;
+	background-color:#e2e3e3;
 	width: 270px;     										  /* SIRKA MENU*/
 	
 }

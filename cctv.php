@@ -44,11 +44,16 @@
           		  <div class="obsah"> 
 
 
-          <h2> Kamerové systémy</h2>
+          <h2> Kamerové systémy          
+            <span style="position: relative;float: right;padding:30px;margin-right:-40px;text-align:justify;"> 
+              <img width="170px" src="img/kamera.png"/>
+             </span>
+          
+            </h2>
 
           				<h3>Úloha kamerových systémů</h3>
 
-
+          <div style="text-align:justify">
           				Kamerové systémy CCTV (Close circuit television <li>uzavřené televizní
           				okruhy) patří v současné době k nejvíce expandujícím technologiím.
           				Tyto systémy jsou populární především všestranností svého využití.
@@ -66,14 +71,14 @@
           				ale může pomocí automaticky zapnuté kamery a osvětlení pozorovat
           				konkrétní prostor bez rizika ohrožení osob. <div style="text-align:right"><i>(výňatek z odborné
           				literatury)</i></div>
+          </div>
 
-
-          <span style="position: relative;float: right;padding:30px;margin-right:-40px;"> <img src="img/kamera.png"/> </span>
 
 
           				<h3>Výhody našich kamerových systémů</h3>
 
 
+          <div style="text-align:justify">
 
           				Nasazení videotechniky je pro každý jednotlivý případ neopakovatelné, </br>
           				a proto klademe důraz na správně provedený návrh funkčního systému.</br>
@@ -85,9 +90,7 @@
           				videotechniky. V současné době jsme schopni realizovat dodávku
           				jakéhokoliv kamerového systému. Zároveň můžeme poskytnout i odborná
           				školení zabývající se touto problematikou.	    
-                  <!--<div id="kamera">
-                    <img src="img/kamera.png"/>
-                  </div>-->
+          </div>
           		  </div> <!--end obsah-->
 
 

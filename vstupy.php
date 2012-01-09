@@ -43,9 +43,14 @@
 
           		  <div class="obsah"> 
 
-          <h2> Kotrola vstupu</h2>
+          <h2> Kontrola vstupu</h2>
+        		  <span style="position: relative;float: right;padding:30px;margin-right:-40px;text-align:justify;"> 
+                <img width="200px" src="img/brany.png"/>
+               </span>
+
           		    <h3>Přístupové systémy</h3>
 
+        					<div style="text-align:justify">
 
           				Úloha přístupových systémů: Stále častěji se objevují požadavky
           				firem a společností na zlepšení možnosti kontroly pracovní doby
@@ -64,7 +69,7 @@
           				identifikačních systémů dle Vámi zadaných parametrů a požadavků.
           				Veškeré dodávané systémy jsou od renomovaných firem a námi
           				odzkoušené v praxi.
-
+                  </div>
 
           				<h3>Nejčastější typy identifikačních systémů</h3>
 

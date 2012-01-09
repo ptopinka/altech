@@ -43,12 +43,20 @@
 
     		  <div class="obsah">
     		  <h2>Zabezpečovací signalizace EZS</h2>
+        		  <span style="position: relative;float: right;padding:30px;margin-right:-40px;text-align:justify;"> 
+                <img width="200px" src="img/ezs.png"/>
+               </span>
+          
     					<h3>Zabezpečovací technika</h3>
+    					<div style="text-align:justify">
+              
     					Neustálý nárůst kriminality v oblasti majetkové trestné činnosti
     					klade čím dál větší požadavky na ochranu majetku.</br></br>
-
+              </div>
     					<h3>Zabezpečovací signalizace</h3>
 
+    					<div style="text-align:justify">
+              
     					Nejrozšířenější a při správné volbě zabezpečovací techniky i
     					nejefektivnější způsob ochrany majetku je instalace elektrické
     					zabezpečovací signalizace (EZS).</br>
@@ -61,7 +69,7 @@
     					společností </br>a jedná se výhradně o technologie s osvědčením z
     					akreditovaných laboratoří EZS a certifikovaných Českou asociací
     					pojišťoven či Národním bezpečnostním úřadem.
-
+              </div>
 
 
     		  </div> <!--end obsah-->
